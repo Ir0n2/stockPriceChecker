@@ -17,3 +17,5 @@ this is how it looks.
         getPrice("GOOG", ":", "NASDAQ", 200.0)
         getPrice("AAPL", ":", "NASDAQ", 140.7)
         getPrice("XMR", "-", "CAD", 100.0)
+
+Recently added another script for checking ban prices on an account and returning it as a float64, so you can do whatever with it.
